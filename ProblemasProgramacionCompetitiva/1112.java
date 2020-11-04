@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// https://www.urionlinejudge.com.br/judge/en/problems/view/1025
+// https://www.urionlinejudge.com.br/judge/en/problems/view/1112
 // https://www.geeksforgeeks.org/two-dimensional-binary-indexed-tree-or-fenwick-tree/
 
 public class Main{
